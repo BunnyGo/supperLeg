@@ -1,0 +1,2085 @@
+fileFormatVersion: 2
+guid: acbe5377175f5244d8352b24d94c22e4
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: AssualtRifle_1
+    prototypeName: AssualtRifle_1
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 5
+    inputs:
+    - name: Base_Base_Colour
+      value:
+        scalar[0]: 0.5381704
+        scalar[1]: 0.5751727
+        scalar[2]: 0.5808823
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Colour
+      value:
+        scalar[0]: 0.28546712
+        scalar[1]: 0.29311523
+        scalar[2]: 0.29411763
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: $outputsize
+      value:
+        scalar[0]: 8
+        scalar[1]: 8
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_InvertNormal
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_Detail_Normal
+      value:
+        scalar[0]: 0.12
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Type
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Blending_Mode
+      value:
+        scalar[0]: 4
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Size
+      value:
+        scalar[0]: 3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Diffuse___Albedo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Cavity_Opacity
+      value:
+        scalar[0]: 0.3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Colour
+      value:
+        scalar[0]: 0.145098
+        scalar[1]: 0.145098
+        scalar[2]: 0.145098
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Base_Roughness
+      value:
+        scalar[0]: 0.18
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Roughness
+      value:
+        scalar[0]: 0.15
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Rougness
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Metalness
+      value:
+        scalar[0]: 0.482353
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Paint_Chips
+      value:
+        scalar[0]: 0.33
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Sun_Bleach
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Colour
+      value:
+        scalar[0]: 0.184314
+        scalar[1]: 0.152392
+        scalar[2]: 0.107698
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Roughness
+      value:
+        scalar[0]: 0.898039
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt
+      value:
+        scalar[0]: 0.2
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Grease_Stains
+      value:
+        scalar[0]: 0.38
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Rusting
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Scale
+      value:
+        scalar[0]: 0.22
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Roughness
+      value:
+        scalar[0]: 0.215686
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Amount
+      value:
+        scalar[0]: 1107
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Opacity
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Age
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Invert_Smoothness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Invert_Smoothness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {fileID: 1947437828, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {fileID: 985504748, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {fileID: 560844791, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {fileID: -1727262840, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _AlphaTestRef: 0.5
+      - _BumpScale: 1
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _EmissionScaleUI: 0
+      - _Glossiness: 0
+      - _Lightmapping: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    textureParameters:
+    - name: AssualtRifle_1_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_ambientocclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1948671040
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1948671042
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 1948671052
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 1948671050
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 2048
+      textureHeight: 2048
+      textureFormat: 0
+      loadingBehavior: 1
+  - serializedVersion: 16
+    name: AssualtRifle_1_1
+    prototypeName: AssualtRifle_1
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 5
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 8
+        scalar[1]: 8
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_InvertNormal
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_Detail_Normal
+      value:
+        scalar[0]: 0.12
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Type
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Blending_Mode
+      value:
+        scalar[0]: 4
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Size
+      value:
+        scalar[0]: 3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Diffuse___Albedo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Cavity_Opacity
+      value:
+        scalar[0]: 0.3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Colour
+      value:
+        scalar[0]: 0.7750865
+        scalar[1]: 0.81705374
+        scalar[2]: 0.8235294
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Colour
+      value:
+        scalar[0]: 1
+        scalar[1]: 1
+        scalar[2]: 1
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Colour
+      value:
+        scalar[0]: 0.111192
+        scalar[1]: 0.116899
+        scalar[2]: 0.117647
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Base_Roughness
+      value:
+        scalar[0]: 0.18
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Roughness
+      value:
+        scalar[0]: 0.15
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Rougness
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Metalness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Metalness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Paint_Chips
+      value:
+        scalar[0]: 0.33
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Sun_Bleach
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Colour
+      value:
+        scalar[0]: 0.184314
+        scalar[1]: 0.152392
+        scalar[2]: 0.107698
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Roughness
+      value:
+        scalar[0]: 0.898039
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt
+      value:
+        scalar[0]: 0.2
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Grease_Stains
+      value:
+        scalar[0]: 0.38
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Rusting
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Scale
+      value:
+        scalar[0]: 0.22
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Roughness
+      value:
+        scalar[0]: 0.215686
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Amount
+      value:
+        scalar[0]: 1107
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Opacity
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Age
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Invert_Smoothness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Invert_Smoothness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {fileID: -1156851244, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {fileID: 717413916, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {fileID: 1380280157, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {fileID: 333142720, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _AlphaTestRef: 0.5
+      - _BumpScale: 1
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _EmissionScaleUI: 0
+      - _Glossiness: 0
+      - _Lightmapping: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    textureParameters:
+    - name: AssualtRifle_1_1_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_1_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_1_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_1_ambientocclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1948671040
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1948671042
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 1948671052
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 1948671050
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 2048
+      textureHeight: 2048
+      textureFormat: 0
+      loadingBehavior: 1
+  - serializedVersion: 16
+    name: AssualtRifle_1_2
+    prototypeName: AssualtRifle_1
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 5
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 8
+        scalar[1]: 8
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_InvertNormal
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_Detail_Normal
+      value:
+        scalar[0]: 0.12
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Type
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Blending_Mode
+      value:
+        scalar[0]: 4
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Size
+      value:
+        scalar[0]: 3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Diffuse___Albedo
+      value:
+        scalar[0]: 0.032
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Cavity_Opacity
+      value:
+        scalar[0]: 0.002
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Colour
+      value:
+        scalar[0]: 0.46388406
+        scalar[1]: 0.48243207
+        scalar[2]: 0.4852941
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Colour
+      value:
+        scalar[0]: 0.4852941
+        scalar[1]: 0.4852941
+        scalar[2]: 0.4852941
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Colour
+      value:
+        scalar[0]: 0.111192
+        scalar[1]: 0.116899
+        scalar[2]: 0.117647
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Base_Roughness
+      value:
+        scalar[0]: 0.007
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Roughness
+      value:
+        scalar[0]: 0.015
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Rougness
+      value:
+        scalar[0]: 0.032
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Metalness
+      value:
+        scalar[0]: 0.482353
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Paint_Chips
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Sun_Bleach
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Colour
+      value:
+        scalar[0]: 0.184314
+        scalar[1]: 0.152392
+        scalar[2]: 0.107698
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Roughness
+      value:
+        scalar[0]: 0.898039
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Grease_Stains
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Rusting
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Scale
+      value:
+        scalar[0]: 0.007
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Roughness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Amount
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Opacity
+      value:
+        scalar[0]: 0.007
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Age
+      value:
+        scalar[0]: 0.007
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Invert_Smoothness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Invert_Smoothness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {fileID: -1308283099, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {fileID: 131873250, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {fileID: 1616718994, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {fileID: 268869923, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _AlphaTestRef: 0.5
+      - _BumpScale: 1
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _EmissionScaleUI: 0
+      - _Glossiness: 0
+      - _Lightmapping: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    textureParameters:
+    - name: AssualtRifle_1_2_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_2_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_2_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_2_ambientocclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1948671040
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1948671042
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 1948671052
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 1948671050
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 2048
+      textureHeight: 2048
+      textureFormat: 0
+      loadingBehavior: 1
+  - serializedVersion: 16
+    name: AssualtRifle_1_3
+    prototypeName: AssualtRifle_1
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 5
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 8
+        scalar[1]: 8
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_InvertNormal
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_Detail_Normal
+      value:
+        scalar[0]: 0.245
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Type
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Blending_Mode
+      value:
+        scalar[0]: 4
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Size
+      value:
+        scalar[0]: 3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Diffuse___Albedo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Cavity_Opacity
+      value:
+        scalar[0]: 0.817
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Colour
+      value:
+        scalar[0]: 0.5833694
+        scalar[1]: 0.6066949
+        scalar[2]: 0.6102941
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Colour
+      value:
+        scalar[0]: 0.5441177
+        scalar[1]: 0.55211943
+        scalar[2]: 0.55211943
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Colour
+      value:
+        scalar[0]: 0.111192
+        scalar[1]: 0.116899
+        scalar[2]: 0.117647
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Base_Roughness
+      value:
+        scalar[0]: 0.35
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Roughness
+      value:
+        scalar[0]: 0.15
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Rougness
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Metalness
+      value:
+        scalar[0]: 0.482353
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Paint_Chips
+      value:
+        scalar[0]: 0.915
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Sun_Bleach
+      value:
+        scalar[0]: 0.633
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Colour
+      value:
+        scalar[0]: 0.184314
+        scalar[1]: 0.152392
+        scalar[2]: 0.107698
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Roughness
+      value:
+        scalar[0]: 0.1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt
+      value:
+        scalar[0]: 0.851
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Grease_Stains
+      value:
+        scalar[0]: 0.821
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Rusting
+      value:
+        scalar[0]: 0.655
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Scale
+      value:
+        scalar[0]: 0.22
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Roughness
+      value:
+        scalar[0]: 0.215686
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Amount
+      value:
+        scalar[0]: 1107
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Opacity
+      value:
+        scalar[0]: 0.851
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Age
+      value:
+        scalar[0]: 0.962
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Invert_Smoothness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Invert_Smoothness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {fileID: -70090860, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {fileID: -1725205350, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {fileID: -1734246487, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {fileID: 1279615749, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _AlphaTestRef: 0.5
+      - _BumpScale: 1
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _EmissionScaleUI: 0
+      - _Glossiness: 0
+      - _Lightmapping: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    textureParameters:
+    - name: AssualtRifle_1_3_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_3_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_3_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_3_ambientocclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1948671040
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1948671042
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 1948671052
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 1948671050
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 2048
+      textureHeight: 2048
+      textureFormat: 0
+      loadingBehavior: 1
+  - serializedVersion: 16
+    name: AssualtRifle_1_4
+    prototypeName: AssualtRifle_1
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 5
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 8
+        scalar[1]: 8
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_InvertNormal
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_Detail_Normal
+      value:
+        scalar[0]: 0.12
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Type
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Blending_Mode
+      value:
+        scalar[0]: 4
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Size
+      value:
+        scalar[0]: 3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Diffuse___Albedo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Cavity_Opacity
+      value:
+        scalar[0]: 0.3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Colour
+      value:
+        scalar[0]: 0.5661765
+        scalar[1]: 0.10407656
+        scalar[2]: 0.10407656
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Colour
+      value:
+        scalar[0]: 0.9338235
+        scalar[1]: 0.9612889
+        scalar[2]: 0.9612889
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Colour
+      value:
+        scalar[0]: 0.111192
+        scalar[1]: 0.116899
+        scalar[2]: 0.117647
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Base_Roughness
+      value:
+        scalar[0]: 0.28
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Roughness
+      value:
+        scalar[0]: 0.15
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Rougness
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Metalness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Metalness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Paint_Chips
+      value:
+        scalar[0]: 0.011
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Sun_Bleach
+      value:
+        scalar[0]: 0.339
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Colour
+      value:
+        scalar[0]: 0.184314
+        scalar[1]: 0.152392
+        scalar[2]: 0.107698
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Roughness
+      value:
+        scalar[0]: 0.898039
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt
+      value:
+        scalar[0]: 0.2
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Grease_Stains
+      value:
+        scalar[0]: 0.38
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Rusting
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Scale
+      value:
+        scalar[0]: 0.22
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Roughness
+      value:
+        scalar[0]: 0.215686
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Amount
+      value:
+        scalar[0]: 1107
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Opacity
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Age
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Invert_Smoothness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Invert_Smoothness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {fileID: -2002110585, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {fileID: -390883138, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {fileID: 499131388, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {fileID: -161444162, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _AlphaTestRef: 0.5
+      - _BumpScale: 1
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _EmissionScaleUI: 0
+      - _Glossiness: 0
+      - _Lightmapping: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    textureParameters:
+    - name: AssualtRifle_1_4_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_4_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_4_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_4_ambientocclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1948671040
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1948671042
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 1948671052
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 1948671050
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 2048
+      textureHeight: 2048
+      textureFormat: 0
+      loadingBehavior: 1
+  - serializedVersion: 16
+    name: AssualtRifle_1_5
+    prototypeName: AssualtRifle_1
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 5
+    inputs:
+    - name: $outputsize
+      value:
+        scalar[0]: 8
+        scalar[1]: 8
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: $randomseed
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_InvertNormal
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Misc_Detail_Normal
+      value:
+        scalar[0]: 0.12
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Type
+      value:
+        scalar[0]: 5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Blending_Mode
+      value:
+        scalar[0]: 9
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Camo_Size
+      value:
+        scalar[0]: 1.57
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Diffuse___Albedo
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Cavity_Opacity
+      value:
+        scalar[0]: 0.3
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Colour
+      value:
+        scalar[0]: 0.5441177
+        scalar[1]: 0.39313328
+        scalar[2]: 0.25605536
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Colour
+      value:
+        scalar[0]: 0.54509807
+        scalar[1]: 0.39215687
+        scalar[2]: 0.25490198
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Colour
+      value:
+        scalar[0]: 0.111192
+        scalar[1]: 0.116899
+        scalar[2]: 0.117647
+        scalar[3]: 1
+        texture: {instanceID: 0}
+    - name: Base_Base_Roughness
+      value:
+        scalar[0]: 0.18
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Roughness
+      value:
+        scalar[0]: 0.15
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Rougness
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Base_Metalness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Magazine_Metalness
+      value:
+        scalar[0]: 0.482353
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_GunMetal_Metalness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Paint_Chips
+      value:
+        scalar[0]: 0.33
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Sun_Bleach
+      value:
+        scalar[0]: 0.17
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Colour
+      value:
+        scalar[0]: 0.184314
+        scalar[1]: 0.152392
+        scalar[2]: 0.107698
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt_Roughness
+      value:
+        scalar[0]: 0.898039
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Dirt
+      value:
+        scalar[0]: 0.2
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Grease_Stains
+      value:
+        scalar[0]: 0.38
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Rusting
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Scale
+      value:
+        scalar[0]: 0.22
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Roughness
+      value:
+        scalar[0]: 0.215686
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratches_Amount
+      value:
+        scalar[0]: 1107
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Scratch_Opacity
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Grunge_Age
+      value:
+        scalar[0]: 0.5
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Invert_Smoothness
+      value:
+        scalar[0]: 0
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    - name: Base_Invert_Smoothness
+      value:
+        scalar[0]: 1
+        scalar[1]: 0
+        scalar[2]: 0
+        scalar[3]: 0
+        texture: {instanceID: 0}
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs:
+      - _BumpMap:
+          texture: {fileID: 1436845353, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailAlbedoMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailMask:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _DetailNormalMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _EmissionMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MainTex:
+          texture: {fileID: -542196871, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _MetallicGlossMap:
+          texture: {fileID: 1424867941, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _OcclusionMap:
+          texture: {fileID: 2014888535, guid: acbe5377175f5244d8352b24d94c22e4, type: 3}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      - _ParallaxMap:
+          texture: {instanceID: 0}
+          scale: {x: 1, y: 1}
+          offset: {x: 0, y: 0}
+      floats:
+      - _AlphaTestRef: 0.5
+      - _BumpScale: 1
+      - _DetailNormalMapScale: 1
+      - _DstBlend: 0
+      - _EmissionScaleUI: 0
+      - _Glossiness: 0
+      - _Lightmapping: 1
+      - _Metallic: 0
+      - _Mode: 0
+      - _OcclusionStrength: 1
+      - _Parallax: 0.02
+      - _SrcBlend: 1
+      - _UVSec: 0
+      - _ZWrite: 1
+      colors:
+      - _Color: {r: 1, g: 1, b: 1, a: 1}
+      - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    textureParameters:
+    - name: AssualtRifle_1_5_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_5_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_5_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: AssualtRifle_1_5_ambientocclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 1948671040
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 1948671042
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 1948671052
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 1948671050
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 2048
+      textureHeight: 2048
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
